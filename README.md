@@ -12,7 +12,7 @@
 
 Hi, I'm **Ayyan** — a developer who builds end-to-end web applications with a strong eye for UX and a respect for clean architecture. I enjoy turning real-world problems into elegant, working software.
 
-- 🎓 Student at **APSIT** (Anuradha Purushottam Shinde Institute of Technology)
+- 🎓 Student at **APSIT** (AP Shah Institute of Technology)
 - 🔭 Currently working on **[APSIT S.A.F.E](https://apsit-s-a-f-e.vercel.app)** — a campus Lost & Found platform
 - 🌱 Exploring **TypeScript**, **AI-powered portfolios**, and **Spring Security**
 - 💬 Ask me about **React, Java Spring Boot, REST APIs, or JWT Auth**
